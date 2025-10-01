@@ -1,0 +1,8 @@
+# Commandes à exécuter après avoir créé le repository GitHub
+
+# Remplacez YOUR_USERNAME par votre nom d'utilisateur GitHub
+# Remplacez REPOSITORY_NAME par le nom de votre repository
+
+git remote add origin https://github.com/SimonBdn/ApiRestPython.git
+git branch -M main
+git push -u origin main
